@@ -1,0 +1,11 @@
+Even though we have taken help from the following students and LLMs in terms of discussing ideas and coding practices, all our code is written by us.
+We have discussed with following LLMs and students:
+* LLMs:  ChatGPT, Gemini, Perplexity.ai
+Students: 
+* Sidhharth Tamak (2025AIB2670)
+* Jayesh Choudhari(2025AIB3002)
+
+In our code we have initialised our state with a greedy approach and after this initialization we do local beam search. We do this for a fixed depth or until we get stuck in a local minima, in both these cases we generate random state again and do local beam search from that state if it is better than the current best. 
+
+
+	     
