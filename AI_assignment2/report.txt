@@ -1,0 +1,11 @@
+Even though we have taken help from the following students and LLMs in terms of discussing ideas and coding practices, all our code is written by us.
+Names of students with whom we discussed:
+1) Yuvraj Verma - 2025AIB2568
+2) Jayesh Nandu Chaudhari - 2025AIB3002
+3) Akhil Vashistha - 2025AIB2558
+4) Anant Gupta - 2025AIB2556
+5) Soubhagya Khan - 2025AIB2560
+We used the following LLMs:
+1) ChatGPT
+2) Geimini 
+
